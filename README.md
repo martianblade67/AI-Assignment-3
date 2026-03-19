@@ -1,5 +1,9 @@
 For the dijkstra file, run the following command
-pip install geonamescache (if on linux)
+pip install geonamescache
 
-pip3 install geonamescache or python -m pip install geonamescache or py -m pip install geonamescache (if on windows)
+If that doesn't work, try one of these:
+
+  pip3 install geonamescache
+  python -m pip install geonamescache
+  py -m pip install geonamescache (Windows only)
 
